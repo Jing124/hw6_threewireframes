@@ -1,0 +1,32 @@
+img {
+    width: auto;
+    height: 500px;
+}
+
+/* .column {
+    float: left;
+    width: 33.33%;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    margin: left 3px;rem;
+} */
+
+.step {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 120px;
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+}
